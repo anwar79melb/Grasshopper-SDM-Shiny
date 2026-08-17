@@ -2,15 +2,15 @@
 
 Interactive Shiny application presenting species distribution models for grasshoppers of Western Australia.
 
-## Features
+## Live Application
 
-- Species distribution maps
-- ROC performance curves
-- Variable importance plots
-- Environmental response curves
-- Plot download functionality
+https://connect.posit.cloud/anwarresearch/content/01a00d82-8a23-4657-a031-23768d5e132d
 
-## Related Thesis
+## Source Code
+
+https://github.com/anwar79melb/Grasshopper-SDM-Shiny
+
+## PhD Thesis
 
 https://minerva-access.unimelb.edu.au/items/d6602761-b9e9-4dc1-b52d-e0ceb9bae69a
 
