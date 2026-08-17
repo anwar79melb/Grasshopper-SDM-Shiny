@@ -4,7 +4,9 @@ library(ggplot2)
 
 
 # read model file names
-model_dir <- "D:/PhD related/Shiny/models"
+# model_dir <- "D:/PhD related/Shiny/models" # for local run
+model_dir <- "models"
+
 
 model_files <- list.files(
   model_dir,
