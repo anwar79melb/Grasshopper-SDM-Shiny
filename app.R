@@ -55,8 +55,12 @@ ui <- fluidPage(
       h4("About this App"),
       
       p("This interactive application presents species distribution models",
-        "for Western Australian grasshoppers developed as part of a PhD research project."
+        "for grasshoppers of Western Australia developed as part of a PhD research project."
         ),
+      
+      p(
+        "Explore species-specific distribution maps, model performance statistics, predictor importance, and environmental response curves."
+      ),
       
       p(
         "Further details can be found in the associated ",
@@ -67,17 +71,9 @@ ui <- fluidPage(
         )
       ),
       
-      tags$ul(
-        tags$li("Species Distribution model"),
-        tags$li("Species occurrence records"),
-        tags$li("Bayesian logistic regression model"),
-        tags$li("Model performance metrics"),
-        tags$li("Environmental response curves")
-      ),
-      
       p(
         tags$a(
-          "GitHub Repository",
+          "Hosted on GitHub Repository",
           href = "https://github.com/anwar79melb",
           target = "_blank"
         )
