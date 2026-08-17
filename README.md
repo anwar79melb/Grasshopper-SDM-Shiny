@@ -12,7 +12,7 @@ https://github.com/anwar79melb/Grasshopper-SDM-Shiny
 
 ## PhD Thesis
 
-https://minerva-access.unimelb.edu.au/items/d6602761-b9e9-4dc1-b52d-e0ceb9bae69a
+https://hdl.handle.net/11343/325192
 
 ## Author
 
