@@ -68,7 +68,7 @@ ui <- fluidPage(
         "Further details can be found in the associated ",
         tags$a(
           "PhD thesis",
-          href = "https://minerva-access.unimelb.edu.au/items/d6602761-b9e9-4dc1-b52d-e0ceb9bae69a",
+          href = "https://hdl.handle.net/11343/325192",
           target = "_blank"
         )
       ),
