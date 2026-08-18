@@ -84,7 +84,7 @@ ui <- fluidPage(
       hr(),
       
       strong("Author:"),
-      p("Author: Md Anwar Hossain"),
+      p("Md Anwar Hossain"),
       
       strong("Institution:"),
       p("The University of Melbourne"),
